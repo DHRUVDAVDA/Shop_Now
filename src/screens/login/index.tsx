@@ -7,17 +7,16 @@ import { useDispatch } from 'react-redux';
 import { login } from '../../store/userSlice';
 import { clearCart } from '../../store/cartSlice';
 import useNetworkStatus from '../../components/networkStatus';
-import { saveToken } from './Login';
 
 const MOCK_USERS = [
   {
-    username: 'Test User',
+    username: 'Zignuts test',
     email: 'test@zignuts.com',
     password: '123456',
     token: 'mock_token_test_zignuts',
   },
   {
-    username: 'Practical User',
+    username: 'Zignuts Practical',
     email: 'practical@zignuts.com',
     password: '123456',
     token: 'mock_token_practical_zignuts',
