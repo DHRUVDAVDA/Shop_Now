@@ -1,4 +1,4 @@
-# hop Now App
+# Shop Now App
 
 A React Native shopping application built with clean UI, mock authentication, cart flow, and order management using AsyncStorage.
 
@@ -42,9 +42,7 @@ Password: 123456
 ## Setup & Run Instructions
 
 - yarn install
-- cd ios
-  pod install
-  cd ..
+- cd ios && pod install && cd ..
 - yarn android
 - yarn ios
 # Shop_Now
