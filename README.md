@@ -1,4 +1,4 @@
-# hop Now App
+# Shop Now App
 
 A React Native shopping application built with clean UI, mock authentication, cart flow, and order management using AsyncStorage.
 
