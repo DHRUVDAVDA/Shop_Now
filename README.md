@@ -42,9 +42,7 @@ Password: 123456
 ## Setup & Run Instructions
 
 - yarn install
-- cd ios
-  pod install
-  cd ..
+- cd ios && pod install && cd ..
 - yarn android
 - yarn ios
 # Shop_Now
